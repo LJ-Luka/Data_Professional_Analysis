@@ -2,7 +2,7 @@
 
 ## The Question
 
-For aspiring data professionals, the path forward is murky. How hard is it really to break in? Does a PhD guarantee higher pay? Which programming languages matter most? And perhaps most importantly—are people in this field actually happy?
+For aspiring data professionals, the path forward is murky. How hard is it really to break in? Does a PhD guarantee higher pay? Which programming languages matter most? And perhaps most importantly, are people in this field actually happy?
 
 This analysis surveys 612 data professionals across six continents to answer these questions and uncover what it truly takes to build a career in data.
 
@@ -18,13 +18,13 @@ This analysis surveys 612 data professionals across six continents to answer the
 | Found it Difficult | 32% |
 | Most Popular Language | Python (67% of respondents) |
 
-**The headline:** Data careers are young, accessible, and in-demand—but they're not easy to enter, and salary satisfaction is concerningly low.
+**The headline:** Data careers are young, accessible, and in-demand, but they're not easy to enter, and salary satisfaction is concerningly low.
 
 ---
 
 ## Key Findings
 
-### 1. Breaking Into Data Is Harder Than It Looks
+### 1. Breaking into Data is harder than it looks
 
 The survey asked: *"How difficult was it to break into data?"*
 
@@ -42,9 +42,9 @@ The survey asked: *"How difficult was it to break into data?"*
 
 ---
 
-### 2. Education Doesn't Predict Salary (But It Opens Doors)
+### 2. Education doesn't predict salary (But it opens doors)
 
-A surprising finding: **PhD holders don't consistently out-earn bachelor's degree holders.** The data shows:
+A surprising finding: **PhD holders don't consistently out earn bachelor's degree holders.** The data shows:
 
 - High school graduates, associate degrees, bachelor's, master's, and PhDs appear across all salary ranges
 - The highest earners hold bachelor's degrees or PhDs
@@ -56,17 +56,17 @@ A surprising finding: **PhD holders don't consistently out-earn bachelor's degre
 
 ---
 
-### 3. Management Pays—Technical Skills Don't Scale Linearly
+### 3. Management pays, technical skills don't scale linearly
 
 When drilling into salary by job title, a clear pattern emerges: **the highest earners hold leadership positions.**
 
-Managers and directors consistently out-earn individual contributors, regardless of technical specialty. This isn't surprising, but it's worth noting for practitioners planning their career trajectory.
+Managers and directors consistently out earn individual contributors, regardless of technical specialty. This isn't surprising, but it's worth noting for practitioners planning their career trajectory.
 
-**What this means:** Technical depth is valuable early-career, but pivoting toward people management or strategic roles unlocks higher compensation ceilings.
+**What this means:** Technical depth is valuable in the early career stages, but pivoting toward people management or strategic roles unlocks higher compensation ceilings.
 
 ---
 
-### 4. Python Dominates—And It's Not Close
+### 4. Python dominates by a large margin
 
 **409 out of 612 professionals (67%)** named Python as their preferred programming language.
 
@@ -83,13 +83,13 @@ The Python preference is especially strong among **data analysts**, who make up 
 
 ---
 
-### 5. Geography Still Matters—Especially for Pay and Happiness
+### 5. Geography still matters, especially for pay and happiness
 
 The highest concentration of respondents is in **North America**, particularly the United States. Professionals there report:
 - Higher average salaries
 - Higher happiness ratings
 
-Meanwhile, regions with lower average pay show lower salary satisfaction—though some outliers exist where professionals report happiness despite modest earnings.
+Meanwhile, regions with lower average pay show lower salary satisfaction, though some outliers exist where professionals report happiness despite modest earnings.
 
 **Africa** has the smallest representation in the survey, suggesting either lower adoption of data careers or sampling bias.
 
@@ -97,7 +97,7 @@ Meanwhile, regions with lower average pay show lower salary satisfaction—thoug
 
 ---
 
-### 6. Salary Satisfaction Is Alarmingly Low
+### 6. Salary satisfaction is alarmingly low
 
 **Average happiness with salary: 4.3 out of 10.**
 
@@ -113,10 +113,10 @@ Possible explanations:
 
 ---
 
-### 7. 29.9 Is the Average Age—Data Is a Young Person's Game
+### 7. With the average age being 29.9, data is a young person's game.
 
 The average respondent is under 30, suggesting:
-- Low barriers to early-career entry
+- Low barriers to early career entry
 - Mid-career pivots are happening
 - The field is still maturing
 
@@ -156,13 +156,13 @@ Cleaning performed in Excel; visualization built in Power BI with additional cus
 The data profession is accessible, in-demand, and overwhelmingly young. But it's not a guaranteed path to riches.
 
 **Key takeaways for aspiring professionals:**
-1. Expect a challenging entry—only 25% found it easy
+1. With 25% finding entry easy, expect some challenges
 2. Learn Python first, then SQL and/or R
 3. A degree helps, but doesn't guarantee higher pay
 4. Consider management track for maximum earning potential
 
 **Key takeaways for employers:**
-1. Salary satisfaction is critically low—retention risk is real
+1. Salary satisfaction is critically low, posing real retention risk
 2. The talent pool skews young; invest in development
 3. Geographic pay gaps persist despite remote work trends
 
